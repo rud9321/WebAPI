@@ -6,12 +6,14 @@ using System.Net.Http;
 using System.Web.Http;
 using WebAPI.Models;
 using WebAPI.Repository;
+using WebAPI.Secure;
 
 namespace WebAPI.Controllers
 {
     public class RudController : ApiController
     {
         [HttpGet]
+        [SecureAuthorize]
         public List<MsCodeModel> GetAll()
         {
             return MsCodeRepository.GetAll();

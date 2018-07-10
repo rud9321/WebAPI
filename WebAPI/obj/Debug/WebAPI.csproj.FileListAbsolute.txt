@@ -12,3 +12,19 @@ D:\sonu singh\Asp.Net Projects\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
 D:\sonu singh\Asp.Net Projects\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 D:\sonu singh\Asp.Net Projects\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 D:\sonu singh\Asp.Net Projects\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\WebAPI.dll.config
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\WebAPI.dll
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\WebAPI.pdb
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\System.Web.Http.dll
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\System.Web.Http.xml
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Rudra\Desktop\temp\webapi\WebAPI\obj\Debug\WebAPI.pdb
